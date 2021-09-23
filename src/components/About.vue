@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>By <a href="https://lixvyang.github.io/">Mixin:39427696</a></p>
+        <p><a href="https://lixvyang.github.io/">Mixin:39427696</a></p>
     </div>
 </template>
 
@@ -14,5 +14,6 @@ export default {
 <style>
     p,a{
         color: aliceblue;
+        font-size: 15px;
     }
 </style>

@@ -22,7 +22,16 @@ const listOfMusic = [
     {
         title:"冥想",
         src:require("./assets/music/Meditation.mp3")
-    }
+    },
+    {
+        title:"温柔",
+        src:require("./assets/music/Gentle.mp3")
+    },
+    {
+        title:"雪山",
+        src:require("./assets/music/Ice.mp3")
+    },
+    
 
     
 ]
